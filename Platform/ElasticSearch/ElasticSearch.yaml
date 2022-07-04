@@ -1,0 +1,5 @@
+# 엘라스틱이 설치된 컴퓨터의 IP
+network.host: 0.0.0.0
+
+# 엘라스틱이 설치된 컴퓨터의 IP
+discovery.seed_hosts: ["ES_host"]
