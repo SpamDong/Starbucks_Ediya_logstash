@@ -45,8 +45,8 @@ output {
 
 ## Exec
 ```shell
-curl -XGET localhost:9200
-systemctl status elasticsearch
+curl -XGET localhost:5000
+systemctl status logstash
 # 키는법
-systemctl start elasticsearch
+systemctl start logstash
 ```
